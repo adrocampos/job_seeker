@@ -1,0 +1,17 @@
+Betreff: Bewerbung für die Position als Senior Data Scientist
+
+Sehr geehrte Marina Sommer,
+
+mit großem Interesse habe ich Ihre Stellenanzeige gelesen und bewerbe mich hiermit um die Position des Senior Data Scientists bei Alexander Thamm. Meine umfassenden Kompetenzen in Data Science und mein tiefgehendes Verständnis für Machine Learning, kombiniert mit meiner wissenschaftlichen Laufbahn, decken sich exzellent mit den von Ihnen beschriebenen Anforderungen.
+
+In meiner bisherigen Karriere habe ich führend an KI-Projekten mitgewirkt, die von der Vorhersage atmosphärischer Phänomene bis hin zur Aufklärung von COVID-19-Übertragungsmustern reichten. Dabei habe ich stets darauf geachtet, aus großen Datenmengen signifikante Ergebnisse zu generieren und diese effektiv an Stakeholder zu kommunizieren – eine direkte Übereinstimmung mit Ihrer Beschreibung der Aufgaben eines Senior Data Scientists.
+
+Meine technischen Fähigkeiten umfassen unter anderem fortgeschrittene Anwendungen in Python und den gezielten Einsatz von Analytics-Tools wie TensorFlow und NumPy, die für die Entwicklung datengetriebener Lösungen unerlässlich sind. Die Projektleitung sowohl in traditionellen als auch in agilen Settings zählt ebenso zu meinen Stärken, gestützt durch über vier Jahre Berufserfahrung in datenwissenschaftlichen Projekten.
+
+Meine sozialen und interkulturellen Fähigkeiten, gepaart mit Verhandlungssicherheit in Deutsch und Englisch, ermöglichen es mir, in diversen Teams zu glänzen und Kundenbeziehungen erfolgreich zu gestalten. Mein Starttermin wäre der 1. August.
+
+Ich freue mich darauf, meine Fähigkeiten in Ihr Unternehmen einzubringen und zusammen innovative, datengetriebene Strategien zu entwickeln. Gerne stehe ich Ihnen für ein persönliches Gespräch zur Verfügung und danke Ihnen für die Überprüfung meiner Bewerbung.
+
+Mit freundlichen Grüßen,
+
+Dr.rer.nat. Adrián Rojas
